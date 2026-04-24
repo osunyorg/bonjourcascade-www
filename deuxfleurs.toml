@@ -15,14 +15,14 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 Cache-Control = "max-age=31536000, no-transform, public"
 
 [[redirects]]
-from = "/projets/prestation/"
+from = "/projets/prestation/index.html"
 to = "/projets/nature-de-projet/prestation/"
 
 [[redirects]]
-from = "/projets/assistance-a-maitrise-dusage/"
+from = "/projets/assistance-a-maitrise-dusage/index.html"
 to = "/projets/expertise/assistance-a-maitrise-dusage/"
 
 [[redirects]]
-from = "/projets/conception-sur-mesure/"
+from = "/projets/conception-sur-mesure/index.html"
 to = "/projets/expertise/conception-sur-mesure/"
 
